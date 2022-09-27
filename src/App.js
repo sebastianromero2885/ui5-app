@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     const obj = {};
-    for (let j = 1; j <= 500; j++) {
+    for (let j = 1; j <= 300000; j++) {
       obj[j] = {
         columna1: "Valor columna 1" + " fila " + j,
         columna2: "Valor columna 2" + " fila " + j,
