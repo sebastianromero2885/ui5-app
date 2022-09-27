@@ -1,0 +1,22 @@
+.Title {
+
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+
+.DataTable{
+
+    height: 400px;
+    overflow: auto;
+    /* width: 100%; */
+    overflow-y: auto;
+
+}
+
+.text {
+
+    background-color: red;
+    width: 40px;
+    height: 40px;
+}
